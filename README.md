@@ -1,2 +1,2 @@
 # dentist
-Working material - schedule appointments
+Schedule appointments in one small dentist office.
